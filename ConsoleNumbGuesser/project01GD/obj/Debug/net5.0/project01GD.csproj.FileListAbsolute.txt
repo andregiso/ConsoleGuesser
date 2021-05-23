@@ -1,0 +1,15 @@
+/Users/German/Projects/project01GD/project01GD/obj/Debug/net5.0/project01GD.csprojAssemblyReference.cache
+/Users/German/Projects/project01GD/project01GD/obj/Debug/net5.0/project01GD.GeneratedMSBuildEditorConfig.editorconfig
+/Users/German/Projects/project01GD/project01GD/obj/Debug/net5.0/project01GD.AssemblyInfoInputs.cache
+/Users/German/Projects/project01GD/project01GD/obj/Debug/net5.0/project01GD.AssemblyInfo.cs
+/Users/German/Projects/project01GD/project01GD/obj/Debug/net5.0/project01GD.csproj.CoreCompileInputs.cache
+/Users/German/Projects/project01GD/project01GD/bin/Debug/net5.0/project01GD.deps.json
+/Users/German/Projects/project01GD/project01GD/bin/Debug/net5.0/project01GD.runtimeconfig.json
+/Users/German/Projects/project01GD/project01GD/bin/Debug/net5.0/project01GD.runtimeconfig.dev.json
+/Users/German/Projects/project01GD/project01GD/bin/Debug/net5.0/project01GD.dll
+/Users/German/Projects/project01GD/project01GD/bin/Debug/net5.0/ref/project01GD.dll
+/Users/German/Projects/project01GD/project01GD/bin/Debug/net5.0/project01GD.pdb
+/Users/German/Projects/project01GD/project01GD/obj/Debug/net5.0/project01GD.dll
+/Users/German/Projects/project01GD/project01GD/obj/Debug/net5.0/ref/project01GD.dll
+/Users/German/Projects/project01GD/project01GD/obj/Debug/net5.0/project01GD.pdb
+/Users/German/Projects/project01GD/project01GD/obj/Debug/net5.0/project01GD.genruntimeconfig.cache
